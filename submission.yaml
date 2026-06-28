@@ -23,7 +23,7 @@ team_members:
 # Code and reproducibility
 # ============================================================================
 github_repo: "https://github.com/siddharthgupta-20/Resume-Ranker#"
-sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+sandbox_link: "https://huggingface.co/spaces/siddharthgupta-20/resume-ranker"
 
 reproduce_command: "python module3_scoring.py parsed_jd.json candidates.json jd_embedding.json candidate_embeddings.json"
 
