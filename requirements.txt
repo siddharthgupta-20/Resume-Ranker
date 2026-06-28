@@ -1,0 +1,7 @@
+anthropic
+sentence-transformers
+streamlit
+numpy
+pandas
+python-dotenv
+ 
