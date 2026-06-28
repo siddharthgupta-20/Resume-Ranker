@@ -1,0 +1,65 @@
+{
+  "role_title": "Senior AI Engineer",
+  "seniority": "senior",
+  "domain": "AI/ML — Retrieval, Ranking & Search Systems",
+  "required_skills": [
+    "Embeddings-based retrieval systems",
+    "Sentence Transformers",
+    "Vector databases (Pinecone / Weaviate / Qdrant / Milvus / FAISS)",
+    "Hybrid search (dense + sparse)",
+    "Elasticsearch / OpenSearch",
+    "Python (production-grade)",
+    "Ranking evaluation frameworks (NDCG, MRR, MAP)",
+    "A/B testing for ranking systems",
+    "Offline-to-online evaluation correlation"
+  ],
+  "preferred_skills": [
+    "LLM fine-tuning (LoRA, QLoRA, PEFT)",
+    "Learning-to-rank models (XGBoost / neural LTR)",
+    "HR-tech or marketplace product experience",
+    "Distributed systems",
+    "Large-scale inference optimization",
+    "Open-source AI/ML contributions"
+  ],
+  "disqualifying_signals": [
+    "Pure academic/research background without production deployment",
+    "AI experience limited to LangChain + OpenAI wrappers under 12 months",
+    "No production code written in last 18 months",
+    "Entire career at consulting firms (TCS, Infosys, Wipro, Accenture, Cognizant, Capgemini)",
+    "Primary expertise in CV, speech, or robotics without NLP/IR"
+  ],
+  "min_experience_years": 5,
+  "max_experience_years": 9,
+  "work_mode": "hybrid",
+  "locations_accepted": ["Pune", "Noida", "Hyderabad", "Mumbai", "Delhi NCR"],
+  "salary_range_inr_lpa": null,
+  "notice_period_preference_days": 30,
+  "notice_period_max_days": 90,
+  "industry_preference": [
+    "Product companies",
+    "AI-native startups",
+    "Series A/B startups"
+  ],
+  "company_type_preference": [
+    "Product companies preferred",
+    "Early-stage startup experience valued",
+    "NOT pure consulting/services background"
+  ],
+  "key_responsibilities": [
+    "Own the intelligence layer: ranking, retrieval, matching systems",
+    "Audit current BM25 + rule-based scoring system",
+    "Ship v2 ranking system with embeddings + hybrid retrieval + LLM re-ranking",
+    "Build evaluation infrastructure (offline benchmarks, A/B testing, feedback loops)",
+    "Drive long-term candidate-JD matching architecture at scale",
+    "Mentor engineers (team growing from 4 to 12)"
+  ],
+  "ideal_candidate_summary": "6-8 years total, 4-5 in applied ML at product companies. Has shipped at least one end-to-end ranking/search/recommendation system at meaningful scale. Strong opinions on retrieval, evaluation, and LLM integration backed by real systems built.",
+  "culture_signals": [
+    "Async-first, writes a lot",
+    "Disagrees openly, decides quickly",
+    "Shipper mindset over researcher mindset",
+    "Plans to stay 3+ years",
+    "Thinks in systems not frameworks",
+    "Comfortable with ambiguity and fast change"
+  ]
+}

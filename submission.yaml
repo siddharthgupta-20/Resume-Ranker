@@ -1,0 +1,95 @@
+# Redrob Hackathon — Submission Metadata Template
+#
+# Copy this file to your repo root as `submission_metadata.yaml` and fill it in.
+# The fields here should match what you submit via the portal at upload time.
+# Stage 3 review uses this file to verify your portal metadata.
+
+# ============================================================================
+# Team identity
+# ============================================================================
+team_name: "siddharth.g0220"  # Used in leaderboard and announcements
+
+primary_contact:
+  name: "Siddharth Gupta"
+  email: "siddharth.g0220@gmail.com"   # Used for all organizer communication
+  phone: "+91-8381858697"        # Used for top-50 / top-10 outreach
+
+team_members:
+  - name: "Siddharth Gupta"
+    email: "siddharth.g0220@gmail.com"
+    role: "end-to-end"
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/siddharthgupta-20/Resume-Ranker#"
+sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+
+reproduce_command: "python module3_scoring.py parsed_jd.json candidates.json jd_embedding.json candidate_embeddings.json"
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "Dell/HP Laptop — Intel Core i7"
+  cpu_cores: 8
+  ram_gb: 32
+  python_version: "3.13"
+  os: "Windows 11"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: true
+  pre_computation_time_minutes: 10    # taxonomy build + embedding generation
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Claude (Anthropic)"
+
+ai_usage_summary: |
+  Used Claude for architectural discussion, pipeline design, and code review.
+  Claude assisted in designing the 3-level skill taxonomy approach, the
+  multi-dimension scoring framework, and reviewing module code.
+  No candidate data or JD content was fed to any LLM during the ranking phase.
+  All API calls are restricted to the pre-computation phase only (taxonomy
+  building via claude-sonnet-4-6). The ranking pipeline itself runs fully
+  offline with zero network calls.
+
+# ============================================================================
+# Approach summary
+# ============================================================================
+methodology_summary: |
+  Three-dimension weighted scoring pipeline for candidate ranking.
+
+  Module 1 — JD Parser: Extracts structured fields from raw JD text using an
+  LLM (required skills, preferred skills, disqualifiers, logistics) into a
+  clean JSON schema.
+
+  Module 2 — Taxonomy Engine: Builds a 3-level skill hierarchy (specific →
+  concept → umbrella) across all JD and candidate skills using an LLM. Skills
+  are enriched before embedding so that "FastAPI" and "Django REST" both map
+  to "REST APIs | Backend Development", enabling concept-aware semantic
+  matching. Candidate and JD profiles are embedded using sentence-transformers
+  (all-MiniLM-L6-v2).
+
+  Module 3 — Scoring Engine: Candidates are scored on three dimensions:
+  (1) JD Fit (50%) — cosine similarity of enriched embeddings + required skill
+  coverage weighted by proficiency + verified assessment scores;
+  (2) Hirability (30%) — interview completion rate, offer acceptance, recruiter
+  response rate, notice period fit, location match;
+  (3) Intent & Quality (20%) — recency of activity, GitHub score, education
+  tier, profile completeness, market validation (saved by recruiters).
+  A disqualifier layer applies hard multipliers for consulting-only backgrounds,
+  wrong domains, and inactivity. Top 100 candidates are returned sorted by
+  final composite score.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: false
+  reproduction_tested: true

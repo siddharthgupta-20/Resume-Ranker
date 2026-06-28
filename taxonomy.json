@@ -1,0 +1,237 @@
+{
+  "Prompt Engineering": {
+    "level_3": "Prompt Engineering",
+    "level_2": "Prompt Engineering",
+    "level_1": "AI/ML"
+  },
+  "Hadoop": {
+    "level_3": "Hadoop",
+    "level_2": "Distributed Data Processing",
+    "level_1": "Data Engineering"
+  },
+  "Elasticsearch": {
+    "level_3": "Elasticsearch",
+    "level_2": "Search Engines",
+    "level_1": "NLP/IR"
+  },
+  "Vector Search": {
+    "level_3": "Vector Search",
+    "level_2": "Vector Search",
+    "level_1": "NLP/IR"
+  },
+  "JavaScript": {
+    "level_3": "JavaScript",
+    "level_2": "Programming Languages",
+    "level_1": "Software Engineering"
+  },
+  "Content Matching": {
+    "level_3": "Content Matching",
+    "level_2": "Information Retrieval",
+    "level_1": "NLP/IR"
+  },
+  "AWS": {
+    "level_3": "AWS",
+    "level_2": "Cloud Platforms",
+    "level_1": "ML Infrastructure"
+  },
+  "Diffusion Models": {
+    "level_3": "Diffusion Models",
+    "level_2": "Generative Models",
+    "level_1": "AI/ML"
+  },
+  "Salesforce CRM": {
+    "level_3": "Salesforce CRM",
+    "level_2": "CRM Platforms",
+    "level_1": "Other"
+  },
+  "ASR": {
+    "level_3": "ASR",
+    "level_2": "Speech Recognition",
+    "level_1": "NLP/IR"
+  },
+  "GraphQL": {
+    "level_3": "GraphQL",
+    "level_2": "API Development",
+    "level_1": "Backend Development"
+  },
+  "Six Sigma": {
+    "level_3": "Six Sigma",
+    "level_2": "Process Improvement",
+    "level_1": "Other"
+  },
+  "Statistical Modeling": {
+    "level_3": "Statistical Modeling",
+    "level_2": "Statistical Modeling",
+    "level_1": "Data Science"
+  },
+  "OpenSearch": {
+    "level_3": "OpenSearch",
+    "level_2": "Search Engines",
+    "level_1": "NLP/IR"
+  },
+  "Image Classification": {
+    "level_3": "Image Classification",
+    "level_2": "Computer Vision",
+    "level_1": "AI/ML"
+  },
+  "Fine-tuning LLMs": {
+    "level_3": "Fine-tuning LLMs",
+    "level_2": "LLM Fine-Tuning",
+    "level_1": "AI/ML"
+  },
+  "Rust": {
+    "level_3": "Rust",
+    "level_2": "Programming Languages",
+    "level_1": "Software Engineering"
+  },
+  "Illustrator": {
+    "level_3": "Illustrator",
+    "level_2": "Graphic Design Tools",
+    "level_1": "Other"
+  },
+  "Redis": {
+    "level_3": "Redis",
+    "level_2": "In-Memory Databases",
+    "level_1": "Databases"
+  },
+  "Photoshop": {
+    "level_3": "Photoshop",
+    "level_2": "Graphic Design Tools",
+    "level_1": "Other"
+  },
+  "QLoRA": {
+    "level_3": "QLoRA",
+    "level_2": "LLM Fine-Tuning",
+    "level_1": "AI/ML"
+  },
+  "Apache Beam": {
+    "level_3": "Apache Beam",
+    "level_2": "Distributed Data Processing",
+    "level_1": "Data Engineering"
+  },
+  "Vector databases (Pinecone / Weaviate / Qdrant / Milvus / FAISS)": {
+    "level_3": "Vector databases (Pinecone / Weaviate / Qdrant / Milvus / FAISS)",
+    "level_2": "Vector Databases",
+    "level_1": "AI/ML"
+  },
+  "Sentence Transformers": {
+    "level_3": "Sentence Transformers",
+    "level_2": "Text Encoders",
+    "level_1": "NLP/IR"
+  },
+  "GCP": {
+    "level_3": "GCP",
+    "level_2": "Cloud Platforms",
+    "level_1": "ML Infrastructure"
+  },
+  "Vector Representations": {
+    "level_3": "Vector Representations",
+    "level_2": "Text Encoders",
+    "level_1": "NLP/IR"
+  },
+  "LLMs": {
+    "level_3": "LLMs",
+    "level_2": "Large Language Models",
+    "level_1": "AI/ML"
+  },
+  "A/B testing for ranking systems": {
+    "level_3": "A/B testing for ranking systems",
+    "level_2": "Experimentation & Evaluation",
+    "level_1": "Data Science"
+  },
+  "Milvus": {
+    "level_3": "Milvus",
+    "level_2": "Vector Databases",
+    "level_1": "AI/ML"
+  },
+  "Qdrant": {
+    "level_3": "Qdrant",
+    "level_2": "Vector Databases",
+    "level_1": "AI/ML"
+  },
+  "Marketing": {
+    "level_3": "Marketing",
+    "level_2": "Marketing",
+    "level_1": "Other"
+  },
+  "NLP": {
+    "level_3": "NLP",
+    "level_2": "Natural Language Processing",
+    "level_1": "NLP/IR"
+  },
+  "Python (production-grade)": {
+    "level_3": "Python (production-grade)",
+    "level_2": "Programming Languages",
+    "level_1": "Software Engineering"
+  },
+  "Natural Language Processing": {
+    "level_3": "Natural Language Processing",
+    "level_2": "Natural Language Processing",
+    "level_1": "NLP/IR"
+  },
+  "Tally": {
+    "level_3": "Tally",
+    "level_2": "Accounting Software",
+    "level_1": "Other"
+  },
+  "Information Retrieval": {
+    "level_3": "Information Retrieval",
+    "level_2": "Information Retrieval",
+    "level_1": "NLP/IR"
+  },
+  "Text Encoders": {
+    "level_3": "Text Encoders",
+    "level_2": "Text Encoders",
+    "level_1": "NLP/IR"
+  },
+  "LLM fine-tuning (LoRA, QLoRA, PEFT)": {
+    "level_3": "LLM fine-tuning (LoRA, QLoRA, PEFT)",
+    "level_2": "LLM Fine-Tuning",
+    "level_1": "AI/ML"
+  },
+  "Docker": {
+    "level_3": "Docker",
+    "level_2": "Containerization",
+    "level_1": "DevOps"
+  },
+  "GANs": {
+    "level_3": "GANs",
+    "level_2": "Generative Models",
+    "level_1": "AI/ML"
+  },
+  "PEFT": {
+    "level_3": "PEFT",
+    "level_2": "LLM Fine-Tuning",
+    "level_1": "AI/ML"
+  },
+  "Airflow": {
+    "level_3": "Airflow",
+    "level_2": "Workflow Orchestration",
+    "level_1": "Data Engineering"
+  },
+  "Django": {
+    "level_3": "Django",
+    "level_2": "Web Frameworks",
+    "level_1": "Backend Development"
+  },
+  "Python": {
+    "level_3": "Python",
+    "level_2": "Programming Languages",
+    "level_1": "Software Engineering"
+  },
+  "Vue.js": {
+    "level_3": "Vue.js",
+    "level_2": "Frontend Frameworks",
+    "level_1": "Frontend Development"
+  },
+  "Open-source AI/ML contributions": {
+    "level_3": "Open-source AI/ML contributions",
+    "level_2": "Open Source Contributions",
+    "level_1": "AI/ML"
+  },
+  "Weaviate": {
+    "level_3": "Weaviate",
+    "level_2": "Vector Databases",
+    "level_1": "AI/ML"
+  }
+}

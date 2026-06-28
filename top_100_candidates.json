@@ -1,0 +1,1202 @@
+[
+  {
+    "candidate_id": "CAND_0011687",
+    "final_score": 0.6325,
+    "raw_score": 0.6325,
+    "breakdown": {
+      "jd_fit": 0.467,
+      "hirability": 0.7849,
+      "intent_quality": 0.8175
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0088025",
+    "final_score": 0.632,
+    "raw_score": 0.632,
+    "breakdown": {
+      "jd_fit": 0.4828,
+      "hirability": 0.7873,
+      "intent_quality": 0.772
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0071974",
+    "final_score": 0.6221,
+    "raw_score": 0.6221,
+    "breakdown": {
+      "jd_fit": 0.5102,
+      "hirability": 0.6549,
+      "intent_quality": 0.8527
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0077337",
+    "final_score": 0.6218,
+    "raw_score": 0.6218,
+    "breakdown": {
+      "jd_fit": 0.4669,
+      "hirability": 0.7673,
+      "intent_quality": 0.7906
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0052328",
+    "final_score": 0.6198,
+    "raw_score": 0.6198,
+    "breakdown": {
+      "jd_fit": 0.4787,
+      "hirability": 0.7537,
+      "intent_quality": 0.7719
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0041669",
+    "final_score": 0.6165,
+    "raw_score": 0.6165,
+    "breakdown": {
+      "jd_fit": 0.4136,
+      "hirability": 0.8361,
+      "intent_quality": 0.7943
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0018499",
+    "final_score": 0.6147,
+    "raw_score": 0.6147,
+    "breakdown": {
+      "jd_fit": 0.4556,
+      "hirability": 0.6978,
+      "intent_quality": 0.8876
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0046525",
+    "final_score": 0.6083,
+    "raw_score": 0.6083,
+    "breakdown": {
+      "jd_fit": 0.4784,
+      "hirability": 0.7595,
+      "intent_quality": 0.7062
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0002025",
+    "final_score": 0.6072,
+    "raw_score": 0.6072,
+    "breakdown": {
+      "jd_fit": 0.4315,
+      "hirability": 0.721,
+      "intent_quality": 0.8756
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0079387",
+    "final_score": 0.6062,
+    "raw_score": 0.6062,
+    "breakdown": {
+      "jd_fit": 0.4672,
+      "hirability": 0.7364,
+      "intent_quality": 0.7584
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0078042",
+    "final_score": 0.6056,
+    "raw_score": 0.6056,
+    "breakdown": {
+      "jd_fit": 0.4399,
+      "hirability": 0.874,
+      "intent_quality": 0.6171
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0070514",
+    "final_score": 0.6042,
+    "raw_score": 0.6042,
+    "breakdown": {
+      "jd_fit": 0.3963,
+      "hirability": 0.8466,
+      "intent_quality": 0.7605
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0041610",
+    "final_score": 0.5991,
+    "raw_score": 0.5991,
+    "breakdown": {
+      "jd_fit": 0.4365,
+      "hirability": 0.789,
+      "intent_quality": 0.7206
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0099806",
+    "final_score": 0.5979,
+    "raw_score": 0.5979,
+    "breakdown": {
+      "jd_fit": 0.4621,
+      "hirability": 0.7068,
+      "intent_quality": 0.7739
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0055905",
+    "final_score": 0.5966,
+    "raw_score": 0.5966,
+    "breakdown": {
+      "jd_fit": 0.4221,
+      "hirability": 0.814,
+      "intent_quality": 0.7067
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0052682",
+    "final_score": 0.5926,
+    "raw_score": 0.5926,
+    "breakdown": {
+      "jd_fit": 0.3863,
+      "hirability": 0.8048,
+      "intent_quality": 0.7902
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0058688",
+    "final_score": 0.5907,
+    "raw_score": 0.5907,
+    "breakdown": {
+      "jd_fit": 0.3906,
+      "hirability": 0.8468,
+      "intent_quality": 0.7066
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0028793",
+    "final_score": 0.5861,
+    "raw_score": 0.5861,
+    "breakdown": {
+      "jd_fit": 0.4332,
+      "hirability": 0.6568,
+      "intent_quality": 0.8621
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0020708",
+    "final_score": 0.5859,
+    "raw_score": 0.5859,
+    "breakdown": {
+      "jd_fit": 0.4306,
+      "hirability": 0.7218,
+      "intent_quality": 0.7705
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0096142",
+    "final_score": 0.5851,
+    "raw_score": 0.5851,
+    "breakdown": {
+      "jd_fit": 0.4144,
+      "hirability": 0.7076,
+      "intent_quality": 0.8283
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0053591",
+    "final_score": 0.5847,
+    "raw_score": 0.5847,
+    "breakdown": {
+      "jd_fit": 0.492,
+      "hirability": 0.6318,
+      "intent_quality": 0.7456
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0095619",
+    "final_score": 0.5842,
+    "raw_score": 0.5842,
+    "breakdown": {
+      "jd_fit": 0.344,
+      "hirability": 0.8726,
+      "intent_quality": 0.752
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0037944",
+    "final_score": 0.5839,
+    "raw_score": 0.5839,
+    "breakdown": {
+      "jd_fit": 0.5007,
+      "hirability": 0.579,
+      "intent_quality": 0.7993
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0006418",
+    "final_score": 0.5838,
+    "raw_score": 0.5838,
+    "breakdown": {
+      "jd_fit": 0.4412,
+      "hirability": 0.6889,
+      "intent_quality": 0.7829
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0073883",
+    "final_score": 0.5834,
+    "raw_score": 0.5834,
+    "breakdown": {
+      "jd_fit": 0.4312,
+      "hirability": 0.729,
+      "intent_quality": 0.7456
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0081846",
+    "final_score": 0.583,
+    "raw_score": 0.583,
+    "breakdown": {
+      "jd_fit": 0.4214,
+      "hirability": 0.7323,
+      "intent_quality": 0.7631
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0030468",
+    "final_score": 0.5818,
+    "raw_score": 0.5818,
+    "breakdown": {
+      "jd_fit": 0.3988,
+      "hirability": 0.7582,
+      "intent_quality": 0.7747
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0098454",
+    "final_score": 0.5817,
+    "raw_score": 0.5817,
+    "breakdown": {
+      "jd_fit": 0.4125,
+      "hirability": 0.8044,
+      "intent_quality": 0.6706
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0086022",
+    "final_score": 0.5815,
+    "raw_score": 0.5815,
+    "breakdown": {
+      "jd_fit": 0.4882,
+      "hirability": 0.5977,
+      "intent_quality": 0.7905
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0064326",
+    "final_score": 0.5814,
+    "raw_score": 0.5814,
+    "breakdown": {
+      "jd_fit": 0.4242,
+      "hirability": 0.7382,
+      "intent_quality": 0.7394
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0074735",
+    "final_score": 0.5796,
+    "raw_score": 0.5796,
+    "breakdown": {
+      "jd_fit": 0.3734,
+      "hirability": 0.7573,
+      "intent_quality": 0.8283
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0066999",
+    "final_score": 0.5785,
+    "raw_score": 0.5785,
+    "breakdown": {
+      "jd_fit": 0.3981,
+      "hirability": 0.6902,
+      "intent_quality": 0.862
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0083879",
+    "final_score": 0.5785,
+    "raw_score": 0.5785,
+    "breakdown": {
+      "jd_fit": 0.4068,
+      "hirability": 0.7707,
+      "intent_quality": 0.7196
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0008295",
+    "final_score": 0.5779,
+    "raw_score": 0.5779,
+    "breakdown": {
+      "jd_fit": 0.3911,
+      "hirability": 0.7988,
+      "intent_quality": 0.7134
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0008425",
+    "final_score": 0.5775,
+    "raw_score": 0.5775,
+    "breakdown": {
+      "jd_fit": 0.457,
+      "hirability": 0.654,
+      "intent_quality": 0.7638
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0039754",
+    "final_score": 0.5769,
+    "raw_score": 0.5769,
+    "breakdown": {
+      "jd_fit": 0.3898,
+      "hirability": 0.7718,
+      "intent_quality": 0.7521
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0018722",
+    "final_score": 0.5768,
+    "raw_score": 0.5768,
+    "breakdown": {
+      "jd_fit": 0.3671,
+      "hirability": 0.7877,
+      "intent_quality": 0.7845
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0051004",
+    "final_score": 0.5763,
+    "raw_score": 0.5763,
+    "breakdown": {
+      "jd_fit": 0.4113,
+      "hirability": 0.7634,
+      "intent_quality": 0.7082
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0043637",
+    "final_score": 0.5758,
+    "raw_score": 0.5758,
+    "breakdown": {
+      "jd_fit": 0.3892,
+      "hirability": 0.7907,
+      "intent_quality": 0.72
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0081053",
+    "final_score": 0.5758,
+    "raw_score": 0.5758,
+    "breakdown": {
+      "jd_fit": 0.4361,
+      "hirability": 0.6968,
+      "intent_quality": 0.7437
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0083852",
+    "final_score": 0.5754,
+    "raw_score": 0.5754,
+    "breakdown": {
+      "jd_fit": 0.3935,
+      "hirability": 0.7319,
+      "intent_quality": 0.7956
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0036437",
+    "final_score": 0.5752,
+    "raw_score": 0.5752,
+    "breakdown": {
+      "jd_fit": 0.4438,
+      "hirability": 0.7631,
+      "intent_quality": 0.6218
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0076482",
+    "final_score": 0.5751,
+    "raw_score": 0.5751,
+    "breakdown": {
+      "jd_fit": 0.4126,
+      "hirability": 0.7482,
+      "intent_quality": 0.7216
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0054546",
+    "final_score": 0.5742,
+    "raw_score": 0.5742,
+    "breakdown": {
+      "jd_fit": 0.3806,
+      "hirability": 0.7628,
+      "intent_quality": 0.7752
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0004402",
+    "final_score": 0.5738,
+    "raw_score": 0.5738,
+    "breakdown": {
+      "jd_fit": 0.4395,
+      "hirability": 0.6779,
+      "intent_quality": 0.7534
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0065195",
+    "final_score": 0.5731,
+    "raw_score": 0.5731,
+    "breakdown": {
+      "jd_fit": 0.4281,
+      "hirability": 0.6962,
+      "intent_quality": 0.751
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0043860",
+    "final_score": 0.5723,
+    "raw_score": 0.5723,
+    "breakdown": {
+      "jd_fit": 0.3694,
+      "hirability": 0.8605,
+      "intent_quality": 0.6471
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0010283",
+    "final_score": 0.572,
+    "raw_score": 0.572,
+    "breakdown": {
+      "jd_fit": 0.4493,
+      "hirability": 0.6708,
+      "intent_quality": 0.7306
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0005538",
+    "final_score": 0.5712,
+    "raw_score": 0.5712,
+    "breakdown": {
+      "jd_fit": 0.4009,
+      "hirability": 0.7248,
+      "intent_quality": 0.7667
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0016163",
+    "final_score": 0.5706,
+    "raw_score": 0.5706,
+    "breakdown": {
+      "jd_fit": 0.3895,
+      "hirability": 0.6915,
+      "intent_quality": 0.842
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0093912",
+    "final_score": 0.57,
+    "raw_score": 0.57,
+    "breakdown": {
+      "jd_fit": 0.4351,
+      "hirability": 0.6993,
+      "intent_quality": 0.7133
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0069905",
+    "final_score": 0.5698,
+    "raw_score": 0.5698,
+    "breakdown": {
+      "jd_fit": 0.4655,
+      "hirability": 0.6462,
+      "intent_quality": 0.7157
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0046064",
+    "final_score": 0.5687,
+    "raw_score": 0.5687,
+    "breakdown": {
+      "jd_fit": 0.4329,
+      "hirability": 0.681,
+      "intent_quality": 0.7399
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0007009",
+    "final_score": 0.5685,
+    "raw_score": 0.5685,
+    "breakdown": {
+      "jd_fit": 0.428,
+      "hirability": 0.6858,
+      "intent_quality": 0.7437
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0052744",
+    "final_score": 0.5683,
+    "raw_score": 0.5683,
+    "breakdown": {
+      "jd_fit": 0.4117,
+      "hirability": 0.7424,
+      "intent_quality": 0.6986
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0050876",
+    "final_score": 0.5679,
+    "raw_score": 0.5679,
+    "breakdown": {
+      "jd_fit": 0.4552,
+      "hirability": 0.6505,
+      "intent_quality": 0.726
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0086154",
+    "final_score": 0.5668,
+    "raw_score": 0.5668,
+    "breakdown": {
+      "jd_fit": 0.3793,
+      "hirability": 0.7488,
+      "intent_quality": 0.7627
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0042029",
+    "final_score": 0.5663,
+    "raw_score": 0.5663,
+    "breakdown": {
+      "jd_fit": 0.4351,
+      "hirability": 0.7371,
+      "intent_quality": 0.6379
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0030784",
+    "final_score": 0.566,
+    "raw_score": 0.566,
+    "breakdown": {
+      "jd_fit": 0.3978,
+      "hirability": 0.7512,
+      "intent_quality": 0.7087
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0010257",
+    "final_score": 0.5654,
+    "raw_score": 0.5654,
+    "breakdown": {
+      "jd_fit": 0.4279,
+      "hirability": 0.6791,
+      "intent_quality": 0.7386
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0024878",
+    "final_score": 0.5644,
+    "raw_score": 0.5644,
+    "breakdown": {
+      "jd_fit": 0.3788,
+      "hirability": 0.7547,
+      "intent_quality": 0.743
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0054100",
+    "final_score": 0.5638,
+    "raw_score": 0.5638,
+    "breakdown": {
+      "jd_fit": 0.4026,
+      "hirability": 0.6707,
+      "intent_quality": 0.8065
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0005260",
+    "final_score": 0.5637,
+    "raw_score": 0.5637,
+    "breakdown": {
+      "jd_fit": 0.4406,
+      "hirability": 0.738,
+      "intent_quality": 0.6098
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0064904",
+    "final_score": 0.5633,
+    "raw_score": 0.5633,
+    "breakdown": {
+      "jd_fit": 0.4437,
+      "hirability": 0.6648,
+      "intent_quality": 0.7101
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0080766",
+    "final_score": 0.5633,
+    "raw_score": 0.5633,
+    "breakdown": {
+      "jd_fit": 0.425,
+      "hirability": 0.734,
+      "intent_quality": 0.6528
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0006567",
+    "final_score": 0.5632,
+    "raw_score": 0.5632,
+    "breakdown": {
+      "jd_fit": 0.3916,
+      "hirability": 0.8054,
+      "intent_quality": 0.629
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0068932",
+    "final_score": 0.5625,
+    "raw_score": 0.5625,
+    "breakdown": {
+      "jd_fit": 0.3709,
+      "hirability": 0.7492,
+      "intent_quality": 0.7613
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0040887",
+    "final_score": 0.5621,
+    "raw_score": 0.5621,
+    "breakdown": {
+      "jd_fit": 0.4021,
+      "hirability": 0.7275,
+      "intent_quality": 0.714
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0039838",
+    "final_score": 0.5615,
+    "raw_score": 0.5615,
+    "breakdown": {
+      "jd_fit": 0.415,
+      "hirability": 0.697,
+      "intent_quality": 0.7243
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0030348",
+    "final_score": 0.5611,
+    "raw_score": 0.5611,
+    "breakdown": {
+      "jd_fit": 0.4266,
+      "hirability": 0.6861,
+      "intent_quality": 0.7098
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0036863",
+    "final_score": 0.5611,
+    "raw_score": 0.5611,
+    "breakdown": {
+      "jd_fit": 0.4377,
+      "hirability": 0.6776,
+      "intent_quality": 0.695
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0016659",
+    "final_score": 0.5607,
+    "raw_score": 0.5607,
+    "breakdown": {
+      "jd_fit": 0.3864,
+      "hirability": 0.7444,
+      "intent_quality": 0.7211
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0070525",
+    "final_score": 0.5603,
+    "raw_score": 0.5603,
+    "breakdown": {
+      "jd_fit": 0.373,
+      "hirability": 0.7828,
+      "intent_quality": 0.6949
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0080465",
+    "final_score": 0.5602,
+    "raw_score": 0.5602,
+    "breakdown": {
+      "jd_fit": 0.3562,
+      "hirability": 0.7027,
+      "intent_quality": 0.8565
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0039383",
+    "final_score": 0.5601,
+    "raw_score": 0.5601,
+    "breakdown": {
+      "jd_fit": 0.3966,
+      "hirability": 0.658,
+      "intent_quality": 0.8218
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0027691",
+    "final_score": 0.5591,
+    "raw_score": 0.5591,
+    "breakdown": {
+      "jd_fit": 0.4017,
+      "hirability": 0.7369,
+      "intent_quality": 0.6858
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0097176",
+    "final_score": 0.5579,
+    "raw_score": 0.5579,
+    "breakdown": {
+      "jd_fit": 0.3463,
+      "hirability": 0.7975,
+      "intent_quality": 0.7275
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0003791",
+    "final_score": 0.5578,
+    "raw_score": 0.5578,
+    "breakdown": {
+      "jd_fit": 0.3792,
+      "hirability": 0.7141,
+      "intent_quality": 0.7698
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0077498",
+    "final_score": 0.5578,
+    "raw_score": 0.5578,
+    "breakdown": {
+      "jd_fit": 0.4049,
+      "hirability": 0.6984,
+      "intent_quality": 0.7292
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0049540",
+    "final_score": 0.5577,
+    "raw_score": 0.5577,
+    "breakdown": {
+      "jd_fit": 0.379,
+      "hirability": 0.7747,
+      "intent_quality": 0.679
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0036184",
+    "final_score": 0.5576,
+    "raw_score": 0.5576,
+    "breakdown": {
+      "jd_fit": 0.4387,
+      "hirability": 0.636,
+      "intent_quality": 0.7375
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0099965",
+    "final_score": 0.557,
+    "raw_score": 0.557,
+    "breakdown": {
+      "jd_fit": 0.3799,
+      "hirability": 0.7112,
+      "intent_quality": 0.7684
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0049538",
+    "final_score": 0.5565,
+    "raw_score": 0.5565,
+    "breakdown": {
+      "jd_fit": 0.4515,
+      "hirability": 0.6828,
+      "intent_quality": 0.6295
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0093763",
+    "final_score": 0.5561,
+    "raw_score": 0.5561,
+    "breakdown": {
+      "jd_fit": 0.3286,
+      "hirability": 0.8061,
+      "intent_quality": 0.75
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0014440",
+    "final_score": 0.5556,
+    "raw_score": 0.5556,
+    "breakdown": {
+      "jd_fit": 0.3896,
+      "hirability": 0.6776,
+      "intent_quality": 0.7878
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0020991",
+    "final_score": 0.5552,
+    "raw_score": 0.5552,
+    "breakdown": {
+      "jd_fit": 0.3937,
+      "hirability": 0.6456,
+      "intent_quality": 0.8235
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0055960",
+    "final_score": 0.5545,
+    "raw_score": 0.5545,
+    "breakdown": {
+      "jd_fit": 0.3349,
+      "hirability": 0.7554,
+      "intent_quality": 0.8023
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0055992",
+    "final_score": 0.5542,
+    "raw_score": 0.5542,
+    "breakdown": {
+      "jd_fit": 0.4013,
+      "hirability": 0.7108,
+      "intent_quality": 0.7017
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0061257",
+    "final_score": 0.5538,
+    "raw_score": 0.5538,
+    "breakdown": {
+      "jd_fit": 0.3618,
+      "hirability": 0.7205,
+      "intent_quality": 0.7839
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0015057",
+    "final_score": 0.5533,
+    "raw_score": 0.5533,
+    "breakdown": {
+      "jd_fit": 0.3935,
+      "hirability": 0.7169,
+      "intent_quality": 0.7076
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0050454",
+    "final_score": 0.5526,
+    "raw_score": 0.5526,
+    "breakdown": {
+      "jd_fit": 0.399,
+      "hirability": 0.6853,
+      "intent_quality": 0.7377
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0079064",
+    "final_score": 0.5525,
+    "raw_score": 0.5525,
+    "breakdown": {
+      "jd_fit": 0.3753,
+      "hirability": 0.7789,
+      "intent_quality": 0.656
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0081480",
+    "final_score": 0.5522,
+    "raw_score": 0.5522,
+    "breakdown": {
+      "jd_fit": 0.3677,
+      "hirability": 0.7904,
+      "intent_quality": 0.6559
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0026942",
+    "final_score": 0.5521,
+    "raw_score": 0.5521,
+    "breakdown": {
+      "jd_fit": 0.3289,
+      "hirability": 0.7661,
+      "intent_quality": 0.7893
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0073007",
+    "final_score": 0.5521,
+    "raw_score": 0.5521,
+    "breakdown": {
+      "jd_fit": 0.367,
+      "hirability": 0.6862,
+      "intent_quality": 0.8135
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0084819",
+    "final_score": 0.5518,
+    "raw_score": 0.5518,
+    "breakdown": {
+      "jd_fit": 0.4517,
+      "hirability": 0.5988,
+      "intent_quality": 0.7314
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0024466",
+    "final_score": 0.5516,
+    "raw_score": 0.5516,
+    "breakdown": {
+      "jd_fit": 0.4703,
+      "hirability": 0.5664,
+      "intent_quality": 0.7328
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0074342",
+    "final_score": 0.551,
+    "raw_score": 0.551,
+    "breakdown": {
+      "jd_fit": 0.3492,
+      "hirability": 0.7833,
+      "intent_quality": 0.7071
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0042506",
+    "final_score": 0.5508,
+    "raw_score": 0.5508,
+    "breakdown": {
+      "jd_fit": 0.4127,
+      "hirability": 0.6383,
+      "intent_quality": 0.7648
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  },
+  {
+    "candidate_id": "CAND_0062247",
+    "final_score": 0.5508,
+    "raw_score": 0.5508,
+    "breakdown": {
+      "jd_fit": 0.3438,
+      "hirability": 0.7546,
+      "intent_quality": 0.7626
+    },
+    "disqualifier_multiplier": 1.0,
+    "disqualifier_flags": []
+  }
+]
